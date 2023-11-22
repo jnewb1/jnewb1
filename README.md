@@ -1,7 +1,3 @@
-# Justin Newberry
-## openpilot team @ comma.ai
-
-
 ### [openpilot in the MetaDrive simulator!](https://blog.comma.ai/095release/#metadrive-our-new-default-simulator-experience)
 [![metadrive](https://github.com/jnewb1/jnewb1/assets/9648890/d5a31135-de13-4c52-bf59-e8ae7cc1c102)](https://blog.comma.ai/095release/#metadrive-our-new-default-simulator-experience)
 
